@@ -7,11 +7,11 @@ This course is structured as a hands-on introduction to worldbuilding in Unity, 
 By the end of this course, you will have developed a foundational understanding of Unity as a creative tool, enabling you to build your own interactive worlds.
 
 ## Table of Content: 
-- [Getting Started (duration ca. 30 Min)](gettingstarted.md)
-- [Session 1 (duration ca. 3h)](session1.md)
-	- [Examples](examples.md)
-	- [Working with the Unity Editor](session1.md#editor)
-	- [Structuring your project](session1.md#structure)
+- [Examples of Artistic and Experimental Approaches to Game Engines](examples.md)
+- [Getting Started with Unity (duration ca. 30 Min)](gettingstarted.md)
+- Session 1 (duration ca. 3h)
+	- [Working with the Unity Editor](EditorIntroduction.md#editor)
+	- [Structuring your project](EditorIntroduction.md#structure)
 	- [Basic 3D Objects](session1.md#basic3d)	
 	- [Materials/ Shaders/ Textures](session1.md#materials)
 	- [Terrain](session1.md#terrain)

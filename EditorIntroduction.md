@@ -60,6 +60,7 @@ The Inspector Window provides detailed information about the selected GameObject
 The Scene View is the interactive workspace where the current 3D scene is displayed and edited. It allows users to navigate, manipulate objects, and adjust the environment in real-time.
 
 #### Navigation in the Scene View: 
+	
 	- Rotate: option + mouse click
 	- Move: option + command + mouse click
 	- Zoom: Two finger scroll 
@@ -76,7 +77,7 @@ The Scene View is the interactive workspace where the current 3D scene is displa
 ### 5. Game View 
 The Game View provides a preview of how the game will appear to the player. By pressing "Play", Unity enters play mode, allowing users to test gameplay, animations, and scripts in real time. The Game View also includes options to adjust resolution and aspect ratio, ensuring the game looks correct on different screen sizes.
 
-> For now we only need the scene, we will have a closer look at the Game View in Session 2 
+> For now we only need the Scene View, we will have a closer look at the Game View in Session 2 
 
 ### 6. Toolbar 
 The Toolbar controls the Game Mode of the current scene, enabling users to play, pause, and stop the game during testing.

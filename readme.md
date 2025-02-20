@@ -6,7 +6,7 @@ This course is structured as a hands-on introduction to worldbuilding in Unity, 
 
 By the end of this course, you will have developed a foundational understanding of Unity as a creative tool, enabling you to build your own interactive worlds.
 
-## Introduction: Examples of Artistic and Experimental Approaches to Game Engines and getting started with Unity  
+## Introduction
 - [Examples of Artistic and Experimental Approaches to Game Engines](examples.md)
 - [Getting Started with Unity (duration ca. 30 Min)](gettingstarted.md)
 

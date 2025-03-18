@@ -4,37 +4,50 @@ This course is designed for artists and designers interested in building virtual
 
 This course is structured as a hands-on introduction to worldbuilding in Unity, guiding you through essential topics such as terrain creation, animation, and visual effects. We will also dive into scripting, collaboration tools, and methods for integrating assets from various sources.
 
-By the end of this course, you will have developed a foundational understanding of Unity as a creative tool, enabling you to build your own interactive worlds.
+The course consists of multiple smaller sessions, each lasting about 2h, including a little exercise at the end. I recommend to read through the session first and quickly try out the functions in Unity and then dive deeper into the Tools while doing the exercise. 
+
+By the end of this course (total time ca. 12h) you will have developed a foundational understanding of Unity as a creative tool, enabling you to build your own interactive worlds.
 
 ## Introduction
 - [Examples of Artistic and Experimental Approaches to Game Engines](examples.md)
 - [Getting Started with Unity (duration ca. 30 Min)](gettingstarted.md)
 
-## Session 1 (duration ca. 3h): Working with simple 3D-Objects
-- [Working with the Unity Editor](1_EditorIntroduction.md#editor)
-- [Structuring your project](1_EditorIntroduction.md#structure)
-- [Basic 3D Objects](1_3DObjects.md#basic3d)	
-- [Materials/ Shaders/ Textures](1_3DObjects.md#materials)
-- [Working with imported 3D Assets](1_3DObjects.md#3dassets)
-- [Online Sculpting Tools](session1.md#onlinetools)
-- [Terrain](session1.md#terrain)
-- [Lighting the Scene](session1.md#light)
-- [Working together in Unity](session1.md#workingtogether)
-- [Intermezzo: Photogrammetry](session2.md#photogrammetry)
+## Session 1 (duration ca. 2h): Working with simple and imported 3D-Objects
+- [Working with the Unity Editor](1_EditorIntroduction.md)
+- [Structuring your project](1_Structuring.md)
+- [Basic 3D Objects](1_3DObjectsBasics.md)	
+- [Materials/ Shaders/ Textures](1_Materials.md)
+- [Working with imported 3D Assets](1_Imported3DAssets.md)
+- [Exercise Session 1](1_Exercise.md)
+
+## Session 2 (duration ca. 2h): Creating the first 3D-Objects for Unity
+- [Terrain](2_Terrain.md)
+- [3D-Scanning](2_3DScan.md)
+- [Online Sculpting Tools](2_OnlineTools.md)
+- [AI Tools for creating 3D Object](2_AITools.md)
+- [Exercise Session 2](2_Exercise.md)
 
 
-## Session 2 (duration ca. 3h): Advanced Objects and Animations
-- [Camera & Game Window](session2.md#camera)
-- [Visual Effects & Global Volume](session2.md#visualeffects)
-- [Audio](session2.md#audio)
-- [Video](session2.md#video)
-- [Animation](session2.md#animation)
-- [Characters](session2.md#characters)
-- [Dialogue System](session2.md#dialogue)
+## Session 3 (duration ca. 2h): Lighting, Cameras and Visual Effects
+- [Lighting the Scene](3_Lights.md)
+- [Camera & Game Window](3_Camera.md)
+- [Visual Effects & Global Volume](3_VisualEffects.md)
+- [Exercise Session 3](3_Exercise.md)
 
-## Session 3 (1-2h): Interaction and Coding in Unity 
-- [Coding in Unity](session3.md#Coding)
-	- [Creating a new script](session3.md#newscript)
-	- [Working with ChatGPT & Claude](session3.md#llm)
-- [Example Code Snippets](session3.md#examples)
-- [Recording](session3.md#Recording)
+## Session 4 (duration ca. 2h): Audio & Video
+- [Audio](4_Audio.md)
+- [Video](4_Video.md)
+- [Animation](4_Animation.md)
+- [Exercise Session 4](4_Exercise.md)
+
+## Session 5 (duration ca. 2h): Characters & Dialogues
+- [Characters](5_Characters.md)
+- [Dialogue System](5_DialogueSystem.md)
+- [Exercise Session 5](5_Exercise.md)
+
+
+## Session 6 (duration ca. 2h): Interaction and Coding in Unity 
+- [Coding in Unity](6_Coding.md)
+- [Working with ChatGPT & Claude](6_AICoding.md)
+- [Example Code Snippets](6_CodingExamples.md)
+- [Exercise Session 6](6_Exercise.md)

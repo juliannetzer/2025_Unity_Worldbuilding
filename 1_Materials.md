@@ -1,17 +1,4 @@
-# <a name="basic3d"></a> Basic 3D Objects
-
-Unity provides a set of basic 3D models that can be used for prototyping or as foundational elements in a scene. These include Cubes, Spheres, Planes, Cylinders, Capsules, and Quad Primitives.
-
-**Adding 3D Object to your scene**
-You can add them to your scene when you got to GameObject -> 3D Object
-![](images/models.jpeg)
-
-**Adjusting the Model**
-Once added, the 3D object will appear in the Hierarchy and Scene View. Use the Inspector to modify properties such as scale, position, and rotation.
-
-> You can also use these simple 3D Objects to build complex scenes, for example when using quads as surfaces and then apply a texture to it you can build simple 2.5D-worlds like [here](https://vk-showcase.kh-berlin.de/project/whomans).
-
-# <a name="materials"></a> Materials/ Shaders/ Textures 
+# Materials/ Shaders/ Textures 
 
 Every 3D-Assets in Unity needs a material that is attached to it, and every material needs a shader. The material is the place where the information like colors and textures are stored. The shader then tells unity how to render these information. (you can compare it to using a pencil: the material stores the color, the shader stores whether it is a wax crayon or a colored pencil). 
 
@@ -35,7 +22,7 @@ Shaders are small programs that determine how objects appear in a 3D scene by co
 
 The most important ones for you are: 
 - Lit: The standard shader with all the standard settings, is affected by your scene lighing
-- Unlit: Minimal shader, that is not effected by lighting. 
+- Unlit: Minimal shader, that is not effected by lighting.
 
 You can find the shaders by clicking on: 
 ![](images/shader1.jpeg)

@@ -1,11 +1,4 @@
-# <a name="photogrammetry"></a>Photogrammetry
 
-Two apps that i tested:
-
-- [Polycam](https://apps.apple.com/de/app/polycam-lidar-3d-scanner/id1532482376)
-- [Luma AI](https://apps.apple.com/de/app/luma-3d-capture/id1615849914)
-
-> Note: Often 3D scanned models are very detailed and Unity can't handle the data very well. To make sure that Unity can handle the models, you can decimate your 3D-Models in the 3D-Software Blender, you can find a Tutorial here: https://www.youtube.com/watch?v=N4QY-1Vf6LM 
 
 # <a name="camera"></a>Camera & The Game Window
 

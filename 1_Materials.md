@@ -152,3 +152,13 @@ Especially when choosing the 3D assets and lights, you should have in mind where
 
 To reduce the triangles of an object, you can use a 3D-modelling-software like blender, you can find more information here: 
 [Simplify a Mesh in Blender](https://all3dp.com/2/blender-simplify-mesh-simply-explained/)
+
+# Exercise: Create and Apply Materials
+
+Goal: Understand how to modify an object’s appearance using materials.
+
+- Create a new Material (Assets → Create → Material).
+- Change the Albedo color and apply it to at least one object.
+- Download a free texture from Polyhaven.
+- Apply the texture to a new material and use it on a different object.
+- Experiment with different Shader types (Lit, Unlit, Transparent) and observe the effects.

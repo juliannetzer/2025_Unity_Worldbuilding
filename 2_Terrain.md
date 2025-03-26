@@ -50,3 +50,13 @@ To add textures (e.g., grass, sand, rocks) to the terrain:
 > You can add multiple layers and blend them to create realistic ground surfaces.
 
 > You can find a good tutorial on the Terrain Tool here: [How to build beautiful landscapes in Unity using Terrain Tools | Tutorial](https://www.youtube.com/watch?v=smnLYvF40s4) or have a look at [Unity Documentation Terrain Tool](https://docs.unity3d.com/2022.3/Documentation/Manual/script-Terrain.html)
+
+
+# Exercise: Sculpt a Terrain in Unity
+
+Goal: Create a natural landscape using Unity's Terrain Tool.
+
+- Create a new Terrain.
+- Use the Raise/Lower Terrain tool to sculpt hills, valleys, and flat areas.
+- Add at least two textures (e.g., grass, sand, or rocks) using the Paint Texture tool.
+- Adjust the Brush Size and Opacity to create natural transitions between textures.

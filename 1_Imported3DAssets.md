@@ -88,3 +88,13 @@ Especially when choosing the 3D assets and lights, you should have in mind where
 
 To reduce the triangles of an object, you can use a 3D-modelling-software like blender, you can find more information here: 
 [Simplify a Mesh in Blender](https://all3dp.com/2/blender-simplify-mesh-simply-explained/)
+
+# Exercise: Import and Use an External 3D Model
+
+Goal: Learn how to import and integrate external 3D models into Unity.
+
+- Download a free 3D model from one of the suggested Websites.
+- Drag the model into your Models folder in Unity.
+- Place the model in the scene and scale/position it appropriately.
+- Check if the model has a material applied. If not, create one and assign it.
+- Duplicate and arrange the model to enhance your scene composition.

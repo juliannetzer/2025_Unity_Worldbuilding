@@ -21,4 +21,20 @@ You can add them to your scene when you got to GameObject -> 3D Object
 **Adjusting the Model**
 Once added, the 3D object will appear in the Hierarchy and Scene View. Use the Inspector to modify properties such as scale, position, and rotation.
 
+Once added, the 3D object appears in the hierarchy and scene view. 
+You can now select the object by clicking on it and change its size, position and rotation. To do this, either select the relevant tool in the scene view: 
+![](images/Basic3D.jpeg)
+> You can also use the ‘w’, ‘e’, ‘r’ keys to switch between the functions. 
+
+Alternatively, you can also change the values using the Inspector: 
+![](images/Basic3D_2.jpeg)
+
 > You can also use these simple 3D Objects to build complex scenes, for example when using quads as surfaces and then apply a texture to it you can build simple 2.5D-worlds like [here](https://vk-showcase.kh-berlin.de/project/whomans).
+
+# Exercise: Build a Simple Structure with 3D Objects
+
+Goal: Learn to place and transform 3D objects in the scene.
+
+- Add a Plane to act as the ground.
+- Add at least three different primitive 3D objects (Cube, Sphere, Cylinder, etc.).
+- Position, rotate, and scale each object to create a simple structure (e.g., a table, a tower, or an abstract sculpture).

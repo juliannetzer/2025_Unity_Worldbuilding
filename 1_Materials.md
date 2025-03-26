@@ -35,7 +35,17 @@ To work with transparency you can either select a shaders that directly supports
 
 > When using a texture with transparency (e.g., PNG with an alpha channel), you must adjust its import settings: Select the texture in the Project Window. -> In the Inspector, enable the Alpha or Transparency setting. -> Apply the changes. ![](images/shader5.jpeg)
  
-## Places to get free Texture
+## Textures
+
+Textures are images applied to the surface of 3D objects to give them visual detail and realism. Instead of relying solely on geometry, textures allow you to simulate materials like wood, metal, fabric, or stone by wrapping 2D images onto 3D models.
+
+In Unity, textures are usually part of a material, which defines how the surface looks under different lighting conditions. You can use different types of textures—such as albedo (color), normal maps for surface detail, or specular maps for shininess—to enhance the visual complexity of your objects without increasing geometry.
+
+### Importing a texture 
+
+Unity supports a range of image formats, i would recommend using .jpg or .png-images. To support the texture to your project you can drag and drop your image in the project window. 
+
+### Places to get free Texture
 There are many online resources where you can find free textures for various materials, including wood, metal, fabric, and more. Below are some recommended platforms that offer free textures for use in your projects.
 
 - [Polyhaven](https://polyhaven.com/textures)

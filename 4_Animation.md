@@ -42,5 +42,5 @@ You can animate all sort of properties, for example you can turn on the Video Pl
 - [Tutorial Animation in Unity](https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#)
 - You can also create 2D Animations with this system, you can find a detailled Tutorial here: [Introduction to Sprite Animations](https://learn.unity.com/tutorial/introduction-to-sprite-animations#)
 
-[Go to the exercise for session 4](4_Exercise.md)
+[Go to the exercise for session 4](4_Exercise.md)<br>
 [Back to the overview](readme.md)

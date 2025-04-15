@@ -40,5 +40,5 @@ Goal: Learn to place and transform 3D objects in the scene.
 - Position, rotate, and scale each object to create a simple structure (e.g., a table, a tower, or an abstract sculpture).
 
 
-[Go to next section](1_Materials.md)
+[Go to next section](1_Materials.md)<br>
 [Back to the overview](readme.md)

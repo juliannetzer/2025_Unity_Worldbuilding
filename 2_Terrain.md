@@ -66,5 +66,5 @@ Goal: Create a natural landscape using Unity's Terrain Tool.
 - Adjust the Brush Size and Opacity to create natural transitions between textures.
 
 
-[Go to next section](2_3DScan.md)
+[Go to next section](2_3DScan.md)<br>
 [Back to the overview](readme.md)

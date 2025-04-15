@@ -46,5 +46,5 @@ For greater control over 3D asset creation, dedicated 3D modeling software such 
 I would recommend to use the open source tool Blender. But getting started will take some time, you can find a good tutorial series here: [Blender Guru - Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
 
 
-[Go to Exercise for Session 2](2_Exercise.md)
+[Go to Exercise for Session 2](2_Exercise.md)<br>
 [Back to the overview](readme.md)

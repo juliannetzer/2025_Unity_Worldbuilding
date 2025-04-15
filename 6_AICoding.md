@@ -316,5 +316,5 @@ You can see that you now only see the fog on the GameObjects in the Scene not th
 To change this you can color the background of the camera in the same color, for this select your camera and change the background settings to the same color as your fog: 
 ![](images/fog4.jpeg)
 
-[Go to next section](6_CodingExamples.md)
+[Go to next section](6_CodingExamples.md)<br>
 [Back to the overview](readme.md)

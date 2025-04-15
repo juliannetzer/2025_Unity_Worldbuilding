@@ -19,5 +19,5 @@ Goal: Scan a real-world object and bring it into Unity.
 - Place the scanned object in your scene.
 
 
-[Go to next section](2_OnlineTools.md)
+[Go to next section](2_OnlineTools.md)<br>
 [Back to the overview](readme.md)

@@ -109,6 +109,6 @@ Key best practices include:
 
 [Best practices of organizing your unity project](https://unity.com/how-to/organizing-your-project)
 
-[Go to next section](1_Structuring.md)
+[Go to next section](1_Structuring.md)<br>
 [Back to the overview](readme.md)
 

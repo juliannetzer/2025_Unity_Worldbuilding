@@ -10,6 +10,10 @@ Each approach serves a different purpose:
 
 This section provides step-by-step instructions for working with these tools, helping you choose the best approach based on your project needs.
 
+## Create a new Scene
+
+Before you start to create your new 3D Objects, create a new scene with File -> New scene or the shortcut cmd+N (Mac) or Ctrl+N (Windows).
+
 ## Terrain Tool  
 ![](images/terraintools.jpeg)
 Unity’s Terrain Tool provides an easy way to create landscapes, shape terrain, and add vegetation, making it a powerful feature for worldbuilding. It allows for height manipulation, texture painting, and vegetation placement within a scene.

@@ -16,7 +16,7 @@ Unity allows you to animate nearly any GameObject property, including:
 - Light Properties – Intensity, color, range (e.g., flickering torch effect).
 - Material Properties – Color changes, etc.
 
-What can't be a easily? 
+What can't be animated easily? 
 - The form of the mesh itself, so deforming the mesh. For this, the best way is to rig you figure in the 3D-Software Blender, you can find a tutorial here: [Rigging for impatient people](https://www.youtube.com/watch?v=DDeB4tDVCGY)
 
 ## Animations window 
@@ -41,11 +41,4 @@ You can animate all sort of properties, for example you can turn on the Video Pl
 > See also:
 - [Tutorial Animation in Unity](https://learn.unity.com/tutorial/working-with-animations-and-animation-curves#)
 - You can also create 2D Animations with this system, you can find a detailled Tutorial here: [Introduction to Sprite Animations](https://learn.unity.com/tutorial/introduction-to-sprite-animations#)
-
-
-## Outlook: Animator window
-![](images/Animator.jpeg)
-
-*Note: In the last session we will have a look how we can change animations in the animator window* 
-The Animator selects which of your animation clips will be played. For example when you want to create a Character that has different states (like walking, standing, running) and one animation clip for each state you would animate this in the Animator window (in general: non-linear animations). 
 

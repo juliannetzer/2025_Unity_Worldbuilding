@@ -113,6 +113,12 @@ Use the LLM as a tutor, not just a code generator.
 
 Keep a list of prompts that worked well for you. This helps you quickly reuse effective questions without starting from scratch.
 
+Keep a list of prompts that worked well for you. This helps you quickly reuse effective questions without starting from scratch.
+
+### Use console to debug
+
+If a script has a syntax error you can see it in the console ("Window" -> "General" -> "Console"). Copy and paste this code in your LLM and ask for a new version.
+
 # <a name="examples"></a> Examples
 
 In the following you can find a few example with instruction how to use them. You can just use these in your projects or modify them with the LLMs for your needs. 

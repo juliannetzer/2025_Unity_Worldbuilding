@@ -28,5 +28,4 @@
 - Walk to the dialogue trigger and confirm the system activates.
 - Check for any missing references, errors, or camera issues.
 
-
-
+[Back to the overview](readme.md)

@@ -206,3 +206,7 @@ Then add a sound to the Audio source that gets played when the character (or ano
 
 > You can also find the script here: [link to script](Script/ProximitySoundTrigger.cs).
 >  To import the script go to "Download raw file" and then drag and drop in your Unity project window. ![](images/DownloadScript.jpeg)
+
+
+[Go to next section](6_AICoding.md)
+[Back to the overview](readme.md)

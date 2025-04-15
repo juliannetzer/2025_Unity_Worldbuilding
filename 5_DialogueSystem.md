@@ -59,3 +59,5 @@ To change the look of the dialogue window open the Dialogue assets GameObject, h
 
 
 
+[Go to the exercise for session 5](5_Exercise.md)
+[Back to the overview](readme.md)

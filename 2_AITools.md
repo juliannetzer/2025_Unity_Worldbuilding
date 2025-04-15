@@ -44,3 +44,7 @@ Goal: Use an AI-powered tool to generate a 3D asset.
 For greater control over 3D asset creation, dedicated 3D modeling software such as Blender, Maya, or Cinema4D provides advanced tools for sculpting, texturing, and optimizing models for use in Unity. Unlike browser-based or AI-generated models, these programs allow for precise customization, efficient topology control, and animation rigging.
 
 I would recommend to use the open source tool Blender. But getting started will take some time, you can find a good tutorial series here: [Blender Guru - Beginner Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
+
+
+[Go to Exercise for Session 2](2_Exercise.md)
+[Back to the overview](readme.md)

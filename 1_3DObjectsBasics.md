@@ -38,3 +38,7 @@ Goal: Learn to place and transform 3D objects in the scene.
 - Add a Plane to act as the ground.
 - Add at least three different primitive 3D objects (Cube, Sphere, Cylinder, etc.).
 - Position, rotate, and scale each object to create a simple structure (e.g., a table, a tower, or an abstract sculpture).
+
+
+[Go to next section](1_Materials.md)
+[Back to the overview](readme.md)

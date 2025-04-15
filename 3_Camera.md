@@ -20,4 +20,5 @@ When we work with Animations and Audio you can only see and hear the effect with
 
 > !!! Changes made in Play Mode are not saved, so be sure to stop the game by clicking the Play button again before making any adjustments. !!! 
 
-
+[Go to next section](3_VisualEffects.md)
+[Back to the overview](readme.md)

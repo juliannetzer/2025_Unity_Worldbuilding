@@ -7,3 +7,5 @@ Goal: Combine everything you've learned to create a cohesive mini-scene.
 - Adjust the scale, position, and rotation of objects to create a natural composition.
 - Organize your Hierarchy by grouping related objects into Empty GameObjects.
 - Save the scene as "DioramaScene.unity".
+
+[Back to the overview](readme.md)

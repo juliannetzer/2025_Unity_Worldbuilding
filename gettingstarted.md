@@ -37,3 +37,5 @@ Choose 2022.3.56 as a Unity version and select "Universal 3D" under "All Templat
 
 Then choose a name for your project and click on "Create project"
 ![](images/newproject3.jpeg)
+
+[Back to the overview](readme.md)

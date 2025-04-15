@@ -17,3 +17,7 @@ Goal: Scan a real-world object and bring it into Unity.
 - Export the model as .glb and import it into Unity.
 - Optimize performance by reducing polygon count in Blender (see tutorial here).
 - Place the scanned object in your scene.
+
+
+[Go to next section](2_OnlineTools.md)
+[Back to the overview](readme.md)

@@ -106,3 +106,6 @@ To do this open the Prefab and search for a object called "PlayerFollowCamera", 
 ![](images/positionavatar_2.jpeg)
 
 
+[Go to next section](5_DialogueSystem.md)
+[Back to the overview](readme.md)
+

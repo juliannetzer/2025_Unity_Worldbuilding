@@ -98,3 +98,7 @@ Goal: Learn how to import and integrate external 3D models into Unity.
 - Place the model in the scene and scale/position it appropriately.
 - Check if the model has a material applied. If not, create one and assign it.
 - Duplicate and arrange the model to enhance your scene composition.
+
+
+[Go to the exercise for session 1](1_Exercise.md)
+[Back to the overview](readme.md)

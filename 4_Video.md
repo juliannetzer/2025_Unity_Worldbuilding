@@ -14,4 +14,6 @@ When you select the GameObject with the video attached you can change settings l
 
 > There are also other option to display videos in Unity, for example in Full Screen, here you can find a good and quick overview video: [Play Video In Unity (2D, 3D, UI canvas, Full screen)](https://www.youtube.com/watch?v=5nPRYwCceTg)
 
+[Go to next section](4_Animation.md)
+[Back to the overview](readme.md)
 

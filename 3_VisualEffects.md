@@ -18,3 +18,6 @@ Some of the effects are:
 - Shadows, Midtones, Highlights – Separately adjusts the brightness and color of different tonal ranges, offering advanced control over lighting and contrast.
 
 > You can find a detailled Tutorial here: [POST PROCESSING in URP (Universal Render Pipeline)](https://www.youtube.com/watch?v=oXNy9mszKxw)
+
+[Go to the exercise for session 3](3_Exercise.md)
+[Back to the overview](readme.md)

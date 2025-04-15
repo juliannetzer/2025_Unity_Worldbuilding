@@ -13,3 +13,5 @@ Instructions:
 - Apply at least one material or texture to the new object.
 - Use an Empty GameObject to organize the new element under a group (e.g., “ImportedObjects”).
 - Save the updated scene as "DioramaSession2.unity".
+
+[Back to the overview](readme.md)

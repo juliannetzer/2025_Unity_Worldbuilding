@@ -82,3 +82,7 @@ Goal: Understand how to modify an object’s appearance using materials.
 - Download a free texture from Polyhaven.
 - Apply the texture to a new material and use it on a different object.
 - Experiment with different Shader types (Lit, Unlit, Transparent) and observe the effects.
+
+
+[Go to next section](1_Imported3DAssets.md)
+[Back to the overview](readme.md)

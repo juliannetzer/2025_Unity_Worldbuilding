@@ -64,3 +64,7 @@ Goal: Create a natural landscape using Unity's Terrain Tool.
 - Use the Raise/Lower Terrain tool to sculpt hills, valleys, and flat areas.
 - Add at least two textures (e.g., grass, sand, or rocks) using the Paint Texture tool.
 - Adjust the Brush Size and Opacity to create natural transitions between textures.
+
+
+[Go to next section](2_3DScan.md)
+[Back to the overview](readme.md)

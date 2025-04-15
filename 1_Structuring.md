@@ -29,5 +29,6 @@ How to Create an Empty GameObject:
 
 [Best practices of organizing your unity project](https://unity.com/how-to/organizing-your-project)
 
+
 [Go to next section](1_3DObjectsBasics.md)\
 [Back to the overview](readme.md)

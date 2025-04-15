@@ -70,6 +70,6 @@ Then you can drag and drop the image that you imported in the cubemap area.
 
 Now you can use the skybox in the lighting settings. 
 
-[Go to next section](3_Camera.md)<br>
+[Go to next section](3_Camera.md)\
 [Back to the overview](readme.md)
 

@@ -63,7 +63,7 @@ With the "Volume Rolloff" you can select different Rolloff algorithms. Select "L
 ![](images/Audio3.jpg)
 
 
-[Go to next section](4_Video.md)<br>
+[Go to next section](4_Video.md)\
 [Back to the overview](readme.md)
 
 

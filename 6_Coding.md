@@ -208,5 +208,5 @@ Then add a sound to the Audio source that gets played when the character (or ano
 >  To import the script go to "Download raw file" and then drag and drop in your Unity project window. ![](images/DownloadScript.jpeg)
 
 
-[Go to next section](6_AICoding.md)<br>
+[Go to next section](6_AICoding.md)\
 [Back to the overview](readme.md)

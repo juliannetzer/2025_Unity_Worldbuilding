@@ -100,5 +100,5 @@ Goal: Learn how to import and integrate external 3D models into Unity.
 - Duplicate and arrange the model to enhance your scene composition.
 
 
-[Go to the exercise for session 1](1_Exercise.md)<br>
+[Go to the exercise for session 1](1_Exercise.md)\
 [Back to the overview](readme.md)

@@ -27,5 +27,5 @@ Goal: Experiment with browser-based sculpting tools to create a custom object.
 
 > Bonus: Apply a material to the objects and integrate them into your terrain.
 
-[Go to next section](2_AITools.md)<br>
+[Go to next section](2_AITools.md)\
 [Back to the overview](readme.md)

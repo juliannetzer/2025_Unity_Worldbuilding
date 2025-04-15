@@ -84,5 +84,5 @@ Goal: Understand how to modify an object’s appearance using materials.
 - Experiment with different Shader types (Lit, Unlit, Transparent) and observe the effects.
 
 
-[Go to next section](1_Imported3DAssets.md)<br>
+[Go to next section](1_Imported3DAssets.md)\
 [Back to the overview](readme.md)

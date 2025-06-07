@@ -51,3 +51,5 @@ By the end of this course (total time ca. 12h) you will have developed a foundat
 - [Working with ChatGPT & Claude](6_AICoding.md)
 - [Example Code Snippets](6_CodingExamples.md)
 - [Exercise Session 6](6_Exercise.md)
+
+Note: I used generative AI applications to obtain information and/or to revise texts in this ressource. 
